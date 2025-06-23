@@ -1,0 +1,83 @@
+2025-06-20 19:44:41 info: Congratulations, your extension "Embold" is now active!
+2025-06-20 19:44:41 info: ************* init ****************
+2025-06-20 19:44:41 info: tempDirectory : c:\Users\Administrator\.vscode\extensions\embold-vscode.embold-0.3.1\temp
+2025-06-20 19:44:59 info: Extraction complete for source: c:\Users\Administrator\.vscode\extensions\embold-vscode.embold-0.3.1\resources\embold-scanner-archive.zip, destination: c:\Users\Administrator\.vscode\extensions\embold-vscode.embold-0.3.1\temp
+2025-06-20 19:44:59 info: Extension installed on machine OS : win32
+2025-06-20 19:44:59 info: Fetched the issues from DB
+2025-06-20 19:44:59 info: Embold extension version response:{"hasSupport":false,"version":"0.2.1","changeNotes":"<div> <p>Release Date: 30 Apr, 2025 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2025-06-20 19:44:59 info: Current installed embold extension version : 0.3.1
+2025-06-20 19:44:59 info: Latest embold extension version on marketplace : 0.2.1
+2025-06-20 19:44:59 info: Current extension version: 0.3.1
+2025-06-20 19:44:59 info: Stored extension version: 0.3.1
+2025-06-20 19:44:59 info: No new installation or upgrade detected. Skipping plugin activation tracking.
+2025-06-20 19:45:01 info: Java version installed on machine : 
+java version "23.0.1" 2024-10-15
+Java(TM) SE Runtime Environment (build 23.0.1+11-39)
+Java HotSpot(TM) 64-Bit Server VM (build 23.0.1+11-39, mixed mode, sharing)
+
+2025-06-20 19:45:01 info: Java installed on machine.
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:26 info: Row(s) deleted
+2025-06-20 19:46:40 info: Row(s) deleted
+2025-06-22 16:52:36 info: Congratulations, your extension "Embold" is now active!
+2025-06-22 22:59:02 info: Congratulations, your extension "Embold" is now active!
+2025-06-22 22:59:02 info: ************* init ****************
+2025-06-22 22:59:02 info: tempDirectory : c:\Users\Administrator\.vscode\extensions\embold-vscode.embold-0.3.1\temp
+2025-06-22 22:59:30 info: Extraction complete for source: c:\Users\Administrator\.vscode\extensions\embold-vscode.embold-0.3.1\resources\embold-scanner-archive.zip, destination: c:\Users\Administrator\.vscode\extensions\embold-vscode.embold-0.3.1\temp
+2025-06-22 22:59:30 info: Extension installed on machine OS : win32
+2025-06-22 22:59:30 info: Fetched the issues from DB
+2025-06-22 22:59:31 info: Embold extension version response:{"hasSupport":false,"version":"0.2.1","changeNotes":"<div> <p>Release Date: 30 Apr, 2025 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2025-06-22 22:59:31 info: Current installed embold extension version : 0.3.1
+2025-06-22 22:59:31 info: Latest embold extension version on marketplace : 0.2.1
+2025-06-22 22:59:31 info: Current extension version: 0.3.1
+2025-06-22 22:59:31 info: Stored extension version: 0.3.1
+2025-06-22 22:59:31 info: No new installation or upgrade detected. Skipping plugin activation tracking.
+2025-06-22 22:59:40 info: Java version installed on machine : 
+java version "23.0.1" 2024-10-15
+Java(TM) SE Runtime Environment (build 23.0.1+11-39)
+Java HotSpot(TM) 64-Bit Server VM (build 23.0.1+11-39, mixed mode, sharing)
+
+2025-06-22 22:59:40 info: Java installed on machine.
+2025-06-22 22:59:42 info: Row(s) deleted
